@@ -2,6 +2,7 @@ package part1;
 
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
+
 import org.junit.Test;
 
 public class CaluclatorTest {
@@ -34,5 +35,4 @@ public class CaluclatorTest {
         Caluculator caluculator = new Caluculator();
         caluculator.divide(5, 0);
     }
-
 }
