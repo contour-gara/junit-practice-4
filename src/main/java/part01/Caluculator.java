@@ -1,4 +1,4 @@
-package part1;
+package part01;
 
 public class Caluculator {
     public int multiply(int x, int y) {

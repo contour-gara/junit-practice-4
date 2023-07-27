@@ -1,9 +1,9 @@
-package part1;
+package part01;
+
+import org.junit.Test;
 
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
-
-import org.junit.Test;
 
 public class CaluclatorTest {
     @Test
