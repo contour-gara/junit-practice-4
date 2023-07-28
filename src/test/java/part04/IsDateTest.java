@@ -12,6 +12,7 @@ public class IsDateTest {
     @Test
     public void 日付の比較() throws Exception {
 //        kusa
+//        kusa
         Date date = new Date();
         assertThat(date, is(dateOf(2023, 07, 28)));
     }
