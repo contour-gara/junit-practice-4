@@ -1,6 +1,13 @@
 package part01;
 
 public class Caluculator {
+    /**
+     * 引数で与えられた2つの値を掛け合わせた値を返す
+     *
+     * @param x 1つ目の引数
+     * @param y 2つ目の引数
+     * @return xとyを掛け合わせた値
+     */
     public int multiply(int x, int y) {
         return x * y;
     }
